@@ -2,7 +2,7 @@
 ![](img/newlogo.png)
 
 **Course Date:** DD.MM.YYYY  
-**Name:** Mert  
+**Name:** Özgür  
 **Surname:** Cobanov  
 **Email:** mertcobanov@gmail.com  
 
